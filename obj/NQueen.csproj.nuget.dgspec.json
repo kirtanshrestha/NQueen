@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kirtan\\source\\repos\\NQueen\\NQueen.csproj": {}
+    "C:\\Users\\Kirtan\\Documents\\GitHub\\NQueen\\NQueen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kirtan\\source\\repos\\NQueen\\NQueen.csproj": {
+    "C:\\Users\\Kirtan\\Documents\\GitHub\\NQueen\\NQueen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirtan\\source\\repos\\NQueen\\NQueen.csproj",
+        "projectUniqueName": "C:\\Users\\Kirtan\\Documents\\GitHub\\NQueen\\NQueen.csproj",
         "projectName": "NQueen",
-        "projectPath": "C:\\Users\\Kirtan\\source\\repos\\NQueen\\NQueen.csproj",
+        "projectPath": "C:\\Users\\Kirtan\\Documents\\GitHub\\NQueen\\NQueen.csproj",
         "packagesPath": "C:\\Users\\Kirtan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kirtan\\source\\repos\\NQueen\\obj\\",
+        "outputPath": "C:\\Users\\Kirtan\\Documents\\GitHub\\NQueen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kirtan\\AppData\\Roaming\\NuGet\\NuGet.Config",
