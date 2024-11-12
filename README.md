@@ -34,15 +34,32 @@ Copy code
 
    ```bash
    dotnet run
-    
+    ```
 4.  Enter the desired board size when prompted (minimum size: 4).
     
 
-### Example Usage
+## Example Usage
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   plaintextCopy code8 Queen solver  Enter board size (>4): 4  Solution #1:     1   2   3   4   1 [ ] [Q] [ ] [ ]   2 [ ] [ ] [ ] [Q]   3 [Q] [ ] [ ] [ ]   4 [ ] [ ] [Q] [ ]  Solution #2:     1   2   3   4   1 [ ] [ ] [Q] [ ]   2 [Q] [ ] [ ] [ ]   3 [ ] [ ] [ ] [Q]   4 [ ] [Q] [ ] [ ]   `
 
-Code Overview
+```plaintext
+8 Queen solver
+Enter board size (>4): 4
+
+Solution #1:
+   1   2   3   4
+ 1 [ ] [Q] [ ] [ ]
+ 2 [ ] [ ] [ ] [Q]
+ 3 [Q] [ ] [ ] [ ]
+ 4 [ ] [ ] [Q] [ ]
+
+Solution #2:
+   1   2   3   4
+ 1 [ ] [ ] [Q] [ ]
+ 2 [Q] [ ] [ ] [ ]
+ 3 [ ] [ ] [ ] [Q]
+ 4 [ ] [Q] [ ] [ ]
+
+##Code Overview
 -------------
 
 ### Main Components
