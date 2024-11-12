@@ -21,13 +21,19 @@ Getting Started
 *   [.NET SDK](https://dotnet.microsoft.com/download) installed on your system.
     
 
-### Running the Program
 
-1.  Clone or download this repository.
-    
-2.  Open a terminal or command prompt and navigate to the folder containing the Program.cs file.
-    
-3.  bashCopy codedotnet run
+Since you uploaded an image and it appears to display a formatted code block with sections titled "Running the Program" and "Example Usage," here's how you could recreate that formatting in a Markdown (.md) file with similar styles for code blocks and descriptions:
+
+markdown
+Copy code
+## Running the Program
+
+1. Clone or download this repository.
+2. Open a terminal or command prompt and navigate to the folder containing the `Program.cs` file.
+3. Compile and run the program using the following command:
+
+   ```bash
+   dotnet run
     
 4.  Enter the desired board size when prompted (minimum size: 4).
     
