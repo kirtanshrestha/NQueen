@@ -22,10 +22,7 @@ Getting Started
     
 
 
-Since you uploaded an image and it appears to display a formatted code block with sections titled "Running the Program" and "Example Usage," here's how you could recreate that formatting in a Markdown (.md) file with similar styles for code blocks and descriptions:
 
-markdown
-Copy code
 ## Running the Program
 
 1. Clone or download this repository.
@@ -41,7 +38,7 @@ Copy code
 ## Example Usage
 
 
-```plaintext
+```bash
 8 Queen solver
 Enter board size (>4): 4
 
@@ -58,7 +55,7 @@ Solution #2:
  2 [Q] [ ] [ ] [ ]
  3 [ ] [ ] [ ] [Q]
  4 [ ] [Q] [ ] [ ]
-
+```
 ##Code Overview
 -------------
 
@@ -92,11 +89,21 @@ Future Improvements
 *   **Enhanced Visualization**: Offer more detailed board display options, e.g., with colors or different output formats.
     
 *   **Command-Line Options**: Allow users to pass board size as a command-line argument.
-    
+
+### Output examples
+![Alt Text](assets/4.png)
+
+![Alt Text](assets/8.png)
 
 License
 -------
 
 This project is licensed under the MIT License. Feel free to use and modify it for your needs.
 
-Feel free to customize any section to better fit your project needs or your preferred style!
+---
+### License
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more details.
+
+### Contact
+Developed by Kirtan Shrestha   
+[work.kirtanshrestha@gmail.com](mailto:work.kirtanshrestha@gmail.com)
