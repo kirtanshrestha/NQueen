@@ -95,10 +95,7 @@ Future Improvements
 
 ![Alt Text](assets/8.png)
 
-License
--------
 
-This project is licensed under the MIT License. Feel free to use and modify it for your needs.
 
 ---
 ### License
